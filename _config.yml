@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Satellite Applications Catapult - Helm charts for Kubernetes
 description: This repository stores Helm chart tarballs authored by the Satellite Applications Catapult. Actual development of these Helm charts takes place in the organization’s Helm chart repo.
+logo: https://raw.githubusercontent.com/SatelliteApplicationsCatapult/zero-to-jupyterhub-k8s/master/images/hub/sac-logo.png
