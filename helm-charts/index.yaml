@@ -2,8 +2,17 @@ apiVersion: v1
 entries:
   ard-campaign:
   - apiVersion: v1
+    appVersion: 1.1.1
+    created: "2020-02-27T12:24:37.066183892Z"
+    description: A Helm chart for deploying ARD processing campaigns with Kubernetes
+    digest: 37808d91dec1f23df9177cd812fe8154d66544e2d6b335679a9836fb853eb69c
+    name: ard-campaign
+    urls:
+    - https://satelliteapplicationscatapult.github.io/helm-charts/ard-campaign-0.3.1.tgz
+    version: 0.3.1
+  - apiVersion: v1
     appVersion: 1.1.0
-    created: "2020-02-24T11:50:02.625961436Z"
+    created: "2020-02-27T12:24:37.06544463Z"
     description: A Helm chart for deploying ARD processing campaigns with Kubernetes
     digest: e4ae4861b0f9bc03d4f3ca5b2ddd21d34562abbc29d397e2132d0982c581b559
     name: ard-campaign
@@ -12,11 +21,11 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 0.5.0
-    created: "2020-02-24T11:50:02.624666877Z"
+    created: "2020-02-27T12:24:37.064846032Z"
     description: A Helm chart for deploying ARD processing campaigns with Kubernetes
     digest: 937be05e1b9edf6894b98604b484d7f9a7b34b6762ca673ae544f80eb1fd4ad4
     name: ard-campaign
     urls:
     - https://satelliteapplicationscatapult.github.io/helm-charts/ard-campaign-0.2.0.tgz
     version: 0.2.0
-generated: "2020-02-24T11:50:02.621920468Z"
+generated: "2020-02-27T12:24:37.064100141Z"
