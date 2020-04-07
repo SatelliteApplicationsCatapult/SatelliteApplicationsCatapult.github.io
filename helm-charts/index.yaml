@@ -3,16 +3,16 @@ entries:
   ard-campaign:
   - apiVersion: v1
     appVersion: 1.2.1
-    created: "2020-04-07T18:29:17.917953887Z"
+    created: "2020-04-07T19:13:07.199685399Z"
     description: A Helm chart for deploying ARD processing campaigns with Kubernetes
-    digest: 207b9d6522f611bf82138f7926428452df5c4f8e41e51cc9c0f35e160fc7b205
+    digest: c53eaa05ec92fa12a0efddc8d806077692af85c6bf7f41c673bf0ed4d3e65380
     name: ard-campaign
     urls:
     - https://satelliteapplicationscatapult.github.io/helm-charts/ard-campaign-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     appVersion: 1.1.1
-    created: "2020-04-07T18:29:17.917213761Z"
+    created: "2020-04-07T19:13:07.199046283Z"
     description: A Helm chart for deploying ARD processing campaigns with Kubernetes
     digest: 37808d91dec1f23df9177cd812fe8154d66544e2d6b335679a9836fb853eb69c
     name: ard-campaign
@@ -21,7 +21,7 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: 1.1.0
-    created: "2020-04-07T18:29:17.916341706Z"
+    created: "2020-04-07T19:13:07.19841336Z"
     description: A Helm chart for deploying ARD processing campaigns with Kubernetes
     digest: e4ae4861b0f9bc03d4f3ca5b2ddd21d34562abbc29d397e2132d0982c581b559
     name: ard-campaign
@@ -30,7 +30,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 0.5.0
-    created: "2020-04-07T18:29:17.915441604Z"
+    created: "2020-04-07T19:13:07.197817445Z"
     description: A Helm chart for deploying ARD processing campaigns with Kubernetes
     digest: 56553987fb9fbbf99ef98e2efd91a49badb94878690d9a41a6131c5b9497e91c
     name: ard-campaign
@@ -39,12 +39,21 @@ entries:
     version: 0.2.0
   odc-product-generation:
   - apiVersion: v1
+    appVersion: 0.0.90
+    created: "2020-04-07T19:13:07.200810978Z"
+    description: A Helm chart for generating routine EO products with Kubernetes
+    digest: b105fe0126043a53bccd1ba2be3036edefd731e5649c66b85a1761c0cd4fc847
+    name: odc-product-generation
+    urls:
+    - https://satelliteapplicationscatapult.github.io/helm-charts/odc-product-generation-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
     appVersion: 0.1.0
-    created: "2020-04-07T18:29:17.918496272Z"
+    created: "2020-04-07T19:13:07.200225061Z"
     description: A Helm chart for generating routine EO products with Kubernetes
     digest: 333c507853b031c668b1b7c46ee0950ad914c901ad05fa2e84394fb5030f2ed7
     name: odc-product-generation
     urls:
     - https://satelliteapplicationscatapult.github.io/helm-charts/odc-product-generation-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-07T18:29:17.914472171Z"
+generated: "2020-04-07T19:13:07.1970693Z"
