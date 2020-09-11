@@ -82,6 +82,16 @@ entries:
     urls:
     - https://satelliteapplicationscatapult.github.io/helm-charts/ard-campaign-0.2.0.tgz
     version: 0.2.0
+  cube-query:
+  - apiVersion: v1
+    appVersion: 1.6.5
+    created: "2020-09-11T07:59:23.160670674Z"
+    description: A Helm chart for deploying Cube Query with Kubernetes
+    digest: 9e04dfeb8515f32a0981dc2ad5c23c833ea0445ae6ea8a07557665e12b12fdf0
+    name: cube-query
+    urls:
+    - https://satelliteapplicationscatapult.github.io/helm-charts/cube-query-1.0.0.tgz
+    version: 1.0.0
   odc-product-generation:
   - apiVersion: v1
     appVersion: 0.0.90
